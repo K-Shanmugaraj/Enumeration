@@ -1,5 +1,7 @@
 # Enumeration
 Enumeration Techniques
+## Name: Shanmuga Raj.K
+## Reg no: 212223040192
 # Explore Google hacking and enumeration 
 # AIM:
 To use Google for gathering information and perform enumeration of targets
